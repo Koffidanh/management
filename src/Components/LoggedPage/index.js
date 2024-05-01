@@ -148,10 +148,10 @@ function LoggedPage({ mainUser }) {
                 ))}
             </div>
 
-            <div className="buttonContainer">
+            {/* <div className="buttonContainer">
                 <div className="saveBtn"><button> Save</button></div>
                 <div className="deleteBtn"><button> Delete</button></div>
-            </div>
+            </div> */}
         </div>
     );
 }

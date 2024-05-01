@@ -25,12 +25,12 @@
 }
 .buttonContianer{
     display: flex;
-    padding-left: 42%;
-    padding-top: 3vh;;
+    padding-left: 5%;
+   
 }
-.saveBtn{
-    padding-right: 20px;
-}
+/* .saveBtn{
+    padding-right: 5px;
+} */
 .searchContainer{
     padding-top: 5vh;
     padding-left: 40%;

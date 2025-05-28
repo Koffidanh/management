@@ -1,5 +1,6 @@
 # management
 # 🔐 React Login & Name Search Performance App
+[Deployed App: (https://management-85d4a.web.app/)]
 
 This is a full-featured **React app** that allows users to **sign up, log in, and compare search algorithm performance** when querying names. Built with a focus on core React concepts, state management, and algorithm benchmarking, it's a great demo for understanding search efficiency in JavaScript.
 
